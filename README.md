@@ -13,7 +13,7 @@ Ce dépôt contient les travaux pratiques réalisés dans le cadre de l'unité *
 
 Les expérimentations portent sur trois fonctions de deux variables \((x, y)\) :
 
-1. **Rosenbrock (Banana Function)**  
+1. **Rosenbrock **  
    \[
    f(x,y) = (1-x)^2 + 100(y-x^2)^2
    \]
